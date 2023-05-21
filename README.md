@@ -1,5 +1,5 @@
 # Estimating-Time-Series-Averages-from-Latent-Space-of-Multi-tasking-Neural-Networks
-This repository contains Python scripts used for the pare *Estimating Time Series Averages from Latent Space of Multi-tasking Neural Networks* which is accepted at the [Journal of Knowledge and Information System (KAIS)](https://www.springer.com/journal/10115)
+This repository contains Python scripts used for the pare *Estimating Time Series Averages from Latent Space of Multi-tasking Neural Networks* which is accepted at the [Journal of Knowledge and Information System (KAIS).](https://www.springer.com/journal/10115)
 
 # Abstract
 <p align="justify">
