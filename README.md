@@ -36,4 +36,4 @@ Overall, we proposed three multitasking autoencoders to estimate the averages of
   (c). Proposed Inception based Multi-tasking Autoencoder
  </p>
 
-# Steps Taken in Training the proposed Networks and Estimating Averages
+# Steps in Training the proposed Networks and Estimating Averages
