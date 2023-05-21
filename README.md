@@ -43,4 +43,3 @@ Overall, we proposed three multitasking autoencoders to estimate the averages of
 * After the projection, the per class atihimetic mean of the multi-class latent space embedding of the training split were taken as the estimate of the class averages.
 * The per class latent space averages were then projected to the time domain using the decoder portion of the proposed trained multi-tasking autoencoders.
 * Finally, to assess the quality of the estimated time domain per class averages, one nearest centroid classification was conducted using the estimated per class  latent space and time domain averages and the time domain and latent space embedding of test split of the [UCR](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) datasets. 
- </p>
