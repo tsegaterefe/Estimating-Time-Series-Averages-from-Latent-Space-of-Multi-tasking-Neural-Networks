@@ -27,12 +27,9 @@ Overall, we proposed three multitasking autoencoders to estimate the averages of
 <p>
  <img src="Images/VGG_Based_MT_Arch.png" align="left" height="250" width="465" >
  <img src="Images/ResNet_Based_MT_Arch.png" align="right" height="250" width="470" >
- <p>
-
-</p>
- <p>
+ <br clear="right"/>
 (a).&nbsp; Proposed VGG16 based Multi-tasking Autoencoder&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; (b).&nbsp; Proposed ResNet based Multi-tasking Autoencoder
-  </p>
+
 </p>
 <p align="center">
  <img src="Images/Inception_Based_MT_Arch.png" height="250" width="500" >
