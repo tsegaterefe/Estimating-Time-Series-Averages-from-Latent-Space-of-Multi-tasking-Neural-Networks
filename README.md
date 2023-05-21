@@ -1,5 +1,5 @@
 # Estimating-Time-Series-Averages-from-Latent-Space-of-Multi-tasking-Neural-Networks
-This repository contains Python scripts used for the pare Estimating Time Series Averages from Latent Space of Multi-tasking Neural Networks accepted at the Journal of Knowledge and Information System (KAIS)
+This repository contains Python scripts used for the pare "Estimating Time Series Averages from Latent Space of Multi-tasking Neural Networks" which is accepted at the Journal of Knowledge and Information System (KAIS)
 
 # Abstract
 <p align="justify">
@@ -28,7 +28,7 @@ Overall, we proposed three multitasking autoencoders to estimate the averages of
  <img src="Images/VGG_Based_MT_Arch.png" align="left" height="250" width="470" >
  <img src="Images/ResNet_Based_MT_Arch.png" align="right" height="250" width="470" >
  <p>
- (a).&nbsp; Proposed VGG16 based Multi-tasking Autoencoder &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; (b).&nbsp; Proposed ResNet based Multi-tasking Autoencoder
+(a).&nbsp; Proposed VGG16 based Multi-tasking Autoencoder &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; (b).&nbsp; Proposed ResNet based Multi-tasking Autoencoder
   </p>
 </p>
 <p align="center">
