@@ -32,4 +32,6 @@ Overall, we proposed three multitasking autoencoders to estimate the averages of
 <p align="center">
  <img src="Images/Inception_Based_MT_Arch.png" height="250" width="500" >
 </p>
+<p align="center">
   (c). Proposed Inception based Multi-tasking Autoencoder
+ </p>
