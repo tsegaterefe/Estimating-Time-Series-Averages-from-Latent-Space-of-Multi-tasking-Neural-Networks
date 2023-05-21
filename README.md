@@ -38,8 +38,10 @@ Overall, we proposed three multitasking autoencoders to estimate the averages of
  </p>
 
 # Steps in Training the proposed Networks and Estimating Averages
+<p align="justify">
 * The proposed architectures were first trained using the train splits of 114 datasets obtained from the [UCR](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/). For each datasets, the networks optimized for multi-class catagorical cross entropy, reconstruction loss, and time domain and latent space qantile regression losses.
 * After training the proposed architecures on a given [UCR](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) dataset, the encoder portion of trained networks were then used to project the multi-class time domain dataset of a train split into the latent space. 
 * After the projection, the per class atihimetic mean of the multi-class latent space embedding of the training split were taken as the estimate of the class averages.
 * The per class latent space averages were then projected to the time domain using the decoder portion of the proposed trained multi-tasking autoencoders.
 * Finally, to assess the quality of the estimated time domain per class averages, one nearest centroid classification was conducted using the estimated per class  latent space and time domain averages and the time domain and latent space embedding of test split of the [UCR](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) datasets. 
+ </p>
