@@ -38,5 +38,4 @@ Overall, we proposed three multitasking autoencoders to estimate the averages of
  </p>
 
 # Steps in Training the proposed Networks and Estimating Averages
-* The proposed architectures were first trained using the train splits of the [UCR](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) archive
-* The proposed networks optimized for multi-class catagorical cross entropy, reconstruction loss, and time domain and latent space qantile regression losses.
+* The proposed architectures were first trained using the train splits of the [UCR](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) archive. In the training process, the networks optimized for multi-class catagorical cross entropy, reconstruction loss, and time domain and latent space qantile regression losses.
