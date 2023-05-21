@@ -27,6 +27,6 @@ Overall, we proposed three multitasking autoencoders to estimate the averages of
  <img src="Images/VGG_Based_MT_Arch.png" height="250" width="500" >
  <img src="Images/ResNet_Based_MT_Arch.png" height="250" width="500" >
 </p>
-<p>
+<p align="center">
  <img src="Images/Inception_Based_MT_Arch.png" height="250" width="500" >
 </p>
