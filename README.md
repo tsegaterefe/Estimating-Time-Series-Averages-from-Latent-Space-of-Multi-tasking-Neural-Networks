@@ -73,3 +73,4 @@ In the *Quntile_Regression_MT_Autoencoders_Code* folder, we have provided the Py
   * self.To_start_from to the the directory where *Startindex.csv* is stored.
   * self.run_per_single_data to the number of repeated training over a sigle UCR dataset (default is set to 25). A training session over a given UCR dataset ends when the a row in *Startindex.csv* that is associated with a dataset reaches this value.
   * self.Quantiles used to set &lambda; pair values that could encourage (discorage) over (under) estiamtinons at the decoder. By default, the &lambda; pair values are set to discourage over (under) estimations at the decoder. However, if the contrary is desired, the commented &lambda; pair values should be used. 
+  * self.model_type to 1, 2, or 3. Setting it to 1 selects the VGG16 based quantile multi-tasking autoencoder. However, setting it to 2 or 3 respectively selects the Inception or ResNet based Quantile multi-tasking autoencoders.
