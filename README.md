@@ -50,10 +50,10 @@ We have used different statistical assesment techniques to compare 1NCC accuraci
  <img src="Images/Box_Whisker_plot.png" align="center" height="250" width="700" >
  <br clear="center"/>
 </p>
-(a).&nbsp; Box Whisker plot comparision of 1NCC accuracies obtained on 84 [UCR] (https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) datasets.
+(a).&nbsp; Box Whisker plot comparision of 1NCC accuracies obtained on 84 UCR datasets.
  <p align="center">
  <img src="Images/114_repeated_AGLVQ_Included_max_Time_Domain.png" align="center" height="250" width="700" >
   <br clear="center"/>
 </p>
-(b).&nbsp; Hypothesis test using on 1NCC accuracies obtaine on 114 [UCR] (https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/) datasets.
+(b).&nbsp; Hypothesis test using on 1NCC accuracies obtaine on 114 UCR datasets.
 
