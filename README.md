@@ -47,5 +47,5 @@ Overall, we proposed three multitasking autoencoders to estimate the averages of
 
 We have used different statistical assesment techniques to compare 1NCC accuracies that are obtained using averages estimated by different averaging techniques and our proposals. In the Figures shown below, we present some of the comparisions reported on the article.   
 <p align="center">
- <img src="Images/Box_Whisker_plot.png" align="center" height="250" width="1000" >
+ <img src="Images/Box_Whisker_plot.png" align="center" height="250" width="700" >
 </p>
