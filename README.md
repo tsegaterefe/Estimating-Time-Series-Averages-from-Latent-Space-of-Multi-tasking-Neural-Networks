@@ -68,4 +68,6 @@ In the *Quntile_Regression_MT_Autoencoders_Code* folder, we have provided the Py
 * After copying a files, open the *Warping_Reg_Net_Config.py* script and specify the following parameters:  
 
   * self.File_loc to the directory where the UCR datasets are stored.  
-  * 
+  * self.Model_save_path to the directory the weights of the trained models get saved.
+  * self.List_of_data_sets to the directory where "Dataset_List.csv" is stored. 
+  * self.To_start_from to the the directory where "Startindex.csv" is stored.
