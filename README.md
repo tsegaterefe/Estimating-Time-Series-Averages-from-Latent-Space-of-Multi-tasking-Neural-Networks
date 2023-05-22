@@ -66,4 +66,4 @@ In the *Quntile_Regression_MT_Autoencoders_Code* folder, we have provided the Py
 * <p align="justify">Copy the five Python Scripts and the the two .csv files to a folder, i.e., Dataset_List.csv and Startindex.csv.</p>
 * <p align="justify">Dataset_List.csv contains the list of UCR datasets over which our porposed approaches were evaluated. Moreover, our porposed approachs were trained 25 times on a given UCR datasets to account for randomness in neural network parameters. The Startindex.csv keeps a record of how many times the networks were traiend on a given UCR dataset.</p>
 * <p align="justify"> After copying a files, open the *Warping_Reg_Net_Config.py* script and specify the following parameters:</p>  
-  * <p align="justify">self.File_loc to the directory where the UCR datasets are stored  </p>  
+  * self.File_loc to the directory where the UCR datasets are stored.  
