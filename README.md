@@ -62,4 +62,4 @@ We have used different statistical assesment techniques to compare 1NCC accuraci
  </p>
  
 # How to Use the Provided Codes  
-In the *Quntile_Regression_MT_Autoencoders_Code* folder, we have provided the Python implimentation for the Quantile regression multi-tasking autoencoders. Moreover, in the articel, we have also assessed a basic multi-tasking autoencoder that optimized for multi-class classificaiton and time domain reconstruction loss. The Python implimentation of this archtitectures was adopted from our privious work which could be found [here]().  
+In the *Quntile_Regression_MT_Autoencoders_Code* folder, we have provided the Python implimentation for the Quantile regression multi-tasking autoencoders. Moreover, in the articel, we have also assessed a basic multi-tasking autoencoder that optimized for multi-class classificaiton and time domain reconstruction loss. The Python implimentation of this archtitectures was adopted from our privious work which could be found [here](https://github.com/tsegaterefe/Time-Series-Averaging-Using-Multi-Tasking-Autoencoder).  
