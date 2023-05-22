@@ -77,3 +77,11 @@ In the *Quntile_Regression_MT_Autoencoders_Code* folder, we have provided the Py
   * self.First_time_train to 1 if the a selected model type is to be trained from scrathced. However, if it is to be loaded, set this parameter to 0 given the directory indicated by the *self.Model_save_path* has the proper weigth values. 
   * Finally, leave the remaining parameters to default values except the self.batch_size and self.Epoch which could be configured to a desired value. 
 * After performing the necessary configurations, run the *Warping_Reg_Net_Main* script to start the training and estimation process. The *Warping_Reg_Net_Main* will create folders in the path indicated by the self.Model_save_path parameter for every UCR dataset listed in *Dataset_List.csv*. Morover, in the same path, an excel file is created to store the 1NCC accuracies for each UCR dataset and for each repeated training and estimation session associated with a given UCR dataset.
+
+# Research Funding
+
+ This research was conducted under the Ethio-France PhD. Program which was financed by:
+ * The former Ethiopian Ministery of Science and Higher Education (MOSHE)
+ * The French Embassy to Ethiopia and African Union.
+
+We would like to acknowledge both parties for their generous contributions. 
