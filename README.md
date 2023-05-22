@@ -71,4 +71,5 @@ In the *Quntile_Regression_MT_Autoencoders_Code* folder, we have provided the Py
   * self.Model_save_path to the directory the weights of the trained models get saved.
   * self.List_of_data_sets to the directory where *Dataset_List.csv* is stored. 
   * self.To_start_from to the the directory where *Startindex.csv* is stored.
-  * self.run_per_single_data the number of repeated training over a sigle UCR dataset (default is set to 25). A training session over a given UCR dataset ends when the a row in *Startindex.csv* that is associated with a dataset reaches this value.
+  * self.run_per_single_data to the number of repeated training over a sigle UCR dataset (default is set to 25). A training session over a given UCR dataset ends when the a row in *Startindex.csv* that is associated with a dataset reaches this value.
+  * self.Quantiles used to set &lambda pair values that could encourage (discorage) over (under) estiamtinons at the decoder. 
