@@ -60,4 +60,6 @@ We have used different statistical assesment techniques to compare 1NCC accuraci
 <p align="center">
 (b).&nbsp; Hypothesis test using on 1NCC accuracies obtaine on 114 UCR datasets.
  </p>
+ 
 # How to Use the Provided Codes  
+In the Quantile_Regres
