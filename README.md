@@ -63,5 +63,6 @@ We have used different statistical assesment techniques to compare 1NCC accuraci
  
 # How to Use the Provided Codes  
 In the *Quntile_Regression_MT_Autoencoders_Code* folder, we have provided the Python implimentation for the Quantile regression multi-tasking autoencoders. Moreover, in the articel, we have also assessed a basic multi-tasking autoencoder that optimized for multi-class classificaiton and time domain reconstruction loss. The Python implimentation of this archtitectures was adopted from our privious work which could be found [here](https://github.com/tsegaterefe/Time-Series-Averaging-Using-Multi-Tasking-Autoencoder). In general, to utilize the provided scripts the following steps could be taken.
-* Copy the five Python Scripts and the the two .csv files, i.e., Dataset_List.csv and Startindex.csv.
-* Dataset_List.csv contains the list of UCR datasets over which our porposed approaches were evaluated. Moreover, our porposed approachs were evaluated using 4 (6) quantile reression ll pair values. The Startindex.csv keeps a record of which of the 4 (6) ll pair values will get ustilized for a given network training session. 
+* <p align="justify">Copy the five Python Scripts and the the two .csv files to a folder, i.e., Dataset_List.csv and Startindex.csv.</p>
+* <p align="justify">Dataset_List.csv contains the list of UCR datasets over which our porposed approaches were evaluated. Moreover, our porposed approachs were trained 25 times on a given UCR datasets to account for randomness in neural network parameters. The Startindex.csv keeps a record of how many times the networks were traiend on a given UCR dataset.</p>
+* After copying a given  
